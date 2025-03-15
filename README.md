@@ -1,2 +1,2 @@
 # dl-project
-Dog vs Cat Classification
+Classification of Dog and Cat using Deep Learning
