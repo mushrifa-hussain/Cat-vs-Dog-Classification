@@ -22,12 +22,10 @@ A deep learning-based image classification model that predicts whether an image 
 🏗️ Installation
 
 Clone the repository:
-
 git clone https://github.com/yourusername/Cat-vs-Dog-Classification.git
 cd Cat-vs-Dog-Classification
 
 Install dependencies:
-
 pip install -r requirements.txt  # If using Python  
 
 Run the model:
